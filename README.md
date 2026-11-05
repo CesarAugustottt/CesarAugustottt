@@ -12,7 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá, eu sou o César Augusto 👋
+<h1 align="center">César Augusto</h1>
+
+<p align="center">
+  Computer Science student
+  <br/>
+  <sub>Universidade Federal de Ouro Preto · Ouro Preto - MG, BR</sub>
+</p>
+<p align="center">
+  Undergraduate researcher in Computational Astronomy
+  <br/>
+  <sub>National Observatory · Rio de Janeiro - RJ, BR </sub>
+</p>
 
 <details>
 <summary><b>🇧🇷 Versão em Português (clique para expandir)</b></summary>
@@ -41,9 +52,17 @@ Here are some ideas to get you started:
 
 ### 📫 Como Me Encontrar
 
-- **Lattes:** [Currículo Lattes](https://lattes.cnpq.br/4774476430711698)
-- **LinkedIn:** [Perfil no LinkedIn](https://www.linkedin.com/in/c%C3%A9sar-augusto-4a4b34308/)
-- **E-mail:** [cesar.toto@aluno.ufop.edu.br](mailto:cesar.toto@aluno.ufop.edu.br)
+<p align="center">
+  <a href="https://lattes.cnpq.br/4774476430711698">
+    <img src="https://img.shields.io/badge/Lattes-003366?style=for-the-badge&logo=academic&logoColor=white" alt="Lattes" />
+  </a>
+  <a href="https://www.linkedin.com/in/c%C3%A9sar-augusto-4a4b34308/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:cesar.toto@aluno.ufop.edu.br">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 </details>
 
@@ -74,8 +93,16 @@ Here are some ideas to get you started:
 
 ### 📫 Connect with Me
 
-- **Lattes:** [Lattes Curriculum](https://lattes.cnpq.br/4774476430711698)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/c%C3%A9sar-augusto-4a4b34308/)
-- **Email:** [cesar.toto@aluno.ufop.edu.br](mailto:cesar.toto@aluno.ufop.edu.br)
+<p align="center">
+  <a href="https://lattes.cnpq.br/4774476430711698">
+    <img src="https://img.shields.io/badge/Lattes-003366?style=for-the-badge&logo=academic&logoColor=white" alt="Lattes" />
+  </a>
+  <a href="https://www.linkedin.com/in/c%C3%A9sar-augusto-4a4b34308/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:cesar.toto@aluno.ufop.edu.br">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 </details>
